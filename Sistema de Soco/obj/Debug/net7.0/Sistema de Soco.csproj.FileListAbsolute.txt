@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\bin\Debug\net7.0\Sistema de Soco.exe
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\bin\Debug\net7.0\Sistema de Soco.deps.json
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\bin\Debug\net7.0\Sistema de Soco.runtimeconfig.json
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\bin\Debug\net7.0\Sistema de Soco.dll
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\bin\Debug\net7.0\Sistema de Soco.pdb
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.dll
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\refint\Sistema de Soco.dll
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.pdb
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\Sistema de Soco.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\My Pasta\Projetos Pessoais\Sistema de Soco\obj\Debug\net7.0\ref\Sistema de Soco.dll
